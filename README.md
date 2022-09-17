@@ -9,4 +9,5 @@ Treinamento de Git para o Hackathon Decola da Iteris.
 **git clone** link | Clona repositório criado no GitHub
 **git add .** | Adiciona mudanças realizadas no diretório atual à um "container"
 
-## Git Pull
+## Git Push
+versao gabriel
