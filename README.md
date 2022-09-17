@@ -10,3 +10,4 @@ Treinamento de Git para o Hackathon Decola da Iteris.
 **git add .** | Adiciona mudanças realizadas no diretório atual à um "container"
 
 ## Git Pull
+versao joao
