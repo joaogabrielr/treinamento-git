@@ -17,3 +17,5 @@ aprendendo a resolver conflitos
 
 ## Git Add
 aprendendo a adicionar coisas
+
+Alteração da develop
