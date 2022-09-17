@@ -21,3 +21,5 @@ aprendendo a adicionar coisas
 Alteração vinda da main
 
 Alteração da develop
+
+Criei uma tela de vendas e ela está funcional. Confia!
