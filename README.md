@@ -14,3 +14,6 @@ versao João
 
 ## Git Merge
 aprendendo a resolver conflitos
+
+## Git Add
+aprendendo a adicionar coisas
