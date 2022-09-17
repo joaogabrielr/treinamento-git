@@ -2,4 +2,10 @@
 
 Treinamento de Git para o Hackathon Decola da Iteris.
 
-## Subtítulo
+## Principais comandos
+
+**mkdir** nome | Cria diretório
+--- | --- 
+**git init** | Cria repositório com pasta .git
+--- | ---
+
